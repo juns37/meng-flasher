@@ -1,0 +1,9 @@
+## Salin file ini menjadi local.properties lalu isi dengan nilai asli.
+## File local.properties JANGAN di-commit ke git.
+
+KEYSTORE_PATH=app/meng-release.jks
+KEYSTORE_PASSWORD=your_keystore_password
+KEY_ALIAS=your_key_alias
+KEY_PASSWORD=your_key_password
+
+OPENWEATHER_API_KEY=your_openweather_api_key

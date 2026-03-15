@@ -1,0 +1,36 @@
+# ============================
+# CREDENTIALS - JANGAN commit!
+# ============================
+local.properties
+*.jks
+*.keystore
+
+# ============================
+# BUILD OUTPUT
+# ============================
+build/
+app/build/
+.gradle/
+
+# ============================
+# IDE
+# ============================
+.idea/
+*.iml
+.androidide/
+*.swp
+*.swo
+
+# ============================
+# ANDROID SPECIFIC
+# ============================
+captures/
+.externalNativeBuild/
+.cxx/
+*.ap_
+
+# ============================
+# OS
+# ============================
+.DS_Store
+Thumbs.db

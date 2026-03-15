@@ -1,0 +1,3 @@
+-keep class com.meng.flasher.core.Worker { *; }
+-keep class com.meng.flasher.core.AssetsUtil { *; }
+-keepattributes *Annotation*

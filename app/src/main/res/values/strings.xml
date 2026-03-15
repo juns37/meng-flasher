@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about">Tentang</string>
+    <string name="about_msg">Meng Flasher v1.0 — Based on HorizonKernelFlasher by LibXZR</string>
+    <string name="app_name">Meng Flasher</string>
+    <string name="failed">Gagal</string>
+    <string name="failed_reboot">Gagal untuk Reboot</string>
+    <string name="flash_new">Flash file baru</string>
+    <string name="flashing">Meng Flashing Kernel</string>
+    <string name="flashing_done">Selesai</string>
+    <string name="no">TIDAK</string>
+    <string name="ok">YA</string>
+    <string name="please_select_kzip">Silakan pilih zip kernel yang dapat di-flash</string>
+    <string name="reboot_complete_msg">Apakah Anda ingin me-reboot perangkat Anda sekarang?</string>
+    <string name="reboot_complete_title">Nyalakan ulang untuk menyelesaikan perubahan</string>
+    <string name="task_running">Ada tugas yang masih berjalan</string>
+    <string name="unable_cleanup">Tidak dapat membersihkan lingkungan</string>
+    <string name="unable_copy">Tidak dapat menyalin file</string>
+    <string name="unable_flash">Gagal saat flashing</string>
+    <string name="unable_flash_error">Terjadi kesalahan saat mem-flash</string>
+    <string name="unable_flash_root">Tidak dapat memperoleh izin root</string>
+    <string name="unable_get_exe">Tidak bisa mendapatkan file yang dapat dieksekusi</string>
+    <string name="yes">YA</string>
+    <!-- String baru untuk Home Screen -->
+    <string name="home_version">Versi 1.0</string>
+    <string name="home_guide_title">Cara Penggunaan</string>
+    <string name="home_step1">Pastikan perangkat sudah di-root dan akses su diberikan.</string>
+    <string name="home_step2">Siapkan file ZIP kernel yang kompatibel dengan perangkat Anda.</string>
+    <string name="home_step3">Tekan tombol di bawah, pilih file zip.. lalu tunggu proses selesai.</string>
+    <string name="home_btn_start">Mulai Flash</string>
+    <string name="open_github">Buka GitHub</string>
+    <string name="about_author">Author: LibXZR (xzr467706992)</string>
+    <string name="about_github">github.com/libxzr/HorizonKernelFlasher</string>
+    <string name="about_license">Licensed under GNU General Public License v3.0</string>
+    <string name="about_close">Tutup</string>
+</resources>
